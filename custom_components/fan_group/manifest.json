@@ -1,0 +1,9 @@
+{
+    "domain": "fan_group",
+    "name": "Fan Group",
+    "documentation": "https://github.com/xannor/hass_fan_group",
+    "issue_tracker": "https://github.com/xannor/hass_fan_group/issues",
+    "dependencies": [],
+    "codeowners": ["@xannor"],
+    "requirements": []
+  }
