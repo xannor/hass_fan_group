@@ -3,6 +3,7 @@
     "name": "Fan Group",
     "documentation": "https://github.com/xannor/hass_fan_group",
     "issue_tracker": "https://github.com/xannor/hass_fan_group/issues",
+    "version": "0.2",
     "dependencies": [],
     "codeowners": ["@xannor"],
     "requirements": []
